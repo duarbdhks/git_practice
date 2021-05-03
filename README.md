@@ -12,6 +12,3 @@
 2. 좌측 메뉴 > Branches 클릭
 3. Add Rule 접속
    ![룰설정](images/img.png)
-
-### 3. Pull Request
-1. 
